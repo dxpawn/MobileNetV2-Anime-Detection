@@ -1,0 +1,10 @@
+tensorflow==2.19.0
+opencv-python
+pillow
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+requests
+beautifulsoup4
