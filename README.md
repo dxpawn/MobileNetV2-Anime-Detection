@@ -38,3 +38,18 @@ Our results show that strategic architectural enhancements and inference-time te
 - But hey, thanks for checking this out. ❤️
 - Uploading to arXiv is a hassle, I will try that in the near future
 - Plus I can't find a free anonymous filehoster to host my 7.5GB dataset... so you gotta wait on that (Zenodo doesn't recognize my ORCID, Terminal.LC is closed, I am finding more options)
+  
+VGhlcmUncyBhIGhpZGRlbiBtZXNzYWdlIHNvbWV3aGVyZS4uLg== ❓
+
+<!-- You know, if only my instructor gave me this assignment for 10 weeks instead of 2, I would've done a much better job...
+Imagine having to finish 4 deadlines of 4 different courses in that 2 weeks...
+So yea, really sorry if you find my project shoddy 😭
+What I would've done if I had more time (and a more... permissive environment):
+- Much bigger dataset: At least 100k images is necessary 
+- Much more selective dataset: Handpicked and curated specifically to my tastes
+- Much more diverse AI images: Would've taken the most non-distinguishable images from Stable Diffusion and all that magic shit - Currently all the AI images I possess is NSFW or too risque to be in an academic setting, that's why I chose thisanimedoesnotexist.ai ; Of course there is still aibooru, but I wonder if the filters there are even working properly...
+- Much more adaptability by including NSFW images: Hell yea we all love those, no reason to exclude them
+- Much less money in my pocket: For some reason training this already took anywhere from 16-45GB of RAM. Yes, 45GB, you heard that right. So a 100k images dataset would be exponentially harder to deal with. But as long as I possess an iron will, nothing can stop me.
+- Much much less money in my bank account: I'd need a big ass NVMe SSD for this. SATA may work too, but not HDDs. Imagine having to load 100k images at the speed of your grandma's dial-up internet. Nahhh...
+- If you're reading this, then damn I am impressed by your curiosity. Thank you ahahah 🧡
+-->
