@@ -15,6 +15,7 @@ We present a novel approach that enhances the **MobileNetV2** architecture with 
   - 2,850 human-created  
   - 2,850 AI-generated  
 - **Accuracy**: **97.28%**
+- **F1-score**: **97.29%**
 - **Architecture**: Lightweight, attention-augmented MobileNetV2
 - **Strengths**:
   - Captures subtle artistic differences
@@ -27,7 +28,7 @@ Our results show that strategic architectural enhancements and inference-time te
 
 ## 💥 VeryDeepQuote™
 
-> _"If a machine can paint a thousand masterpieces in an hour, but has never felt the anguish of creation or the joy of inspiration, can its output truly be called art? Does the soul manifest not in the final work, but in the struggle to create it?"_
+> _"If a machine can paint a thousand masterpieces in an hour, yet has never felt the anguish of creation or the joy of inspiration, can its output truly be called art? Does the soul manifest not in the final work, but in the struggle to create it?"_
 
 ---
 
