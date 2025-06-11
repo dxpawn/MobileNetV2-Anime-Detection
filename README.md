@@ -36,7 +36,8 @@ Our results show that strategic architectural enhancements and inference-time te
 
 - No detailed `README.md` provided — because you can just read the full paper.
 - But hey, thanks for checking this out. ❤️
-- Uploading to arXiv is a hassle, I will try that in the near future
+- ~Uploading to arXiv is a hassle, I will try that in the near future~ -> Got rejected by arXiv (probably cuz it's a course project 😂)
+- If I want to get accepted, I'd probably have to add the "other parts" in - nah, too much work -> Just enjoy the current status quo <3
 - Plus I can't find a free anonymous filehoster to host my 7.5GB dataset... so you gotta wait on that (Zenodo doesn't recognize my ORCID, Terminal.LC is closed, I am finding more options)
   
 VGhlcmUncyBhIGhpZGRlbiBtZXNzYWdlIHNvbWV3aGVyZS4uLg== ❓
